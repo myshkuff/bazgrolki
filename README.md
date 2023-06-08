@@ -1,2 +1,3 @@
 # bazgrolki
-painting app for little ones
+
+painting app with limited functions
